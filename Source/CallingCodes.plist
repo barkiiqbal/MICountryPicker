@@ -68,14 +68,6 @@
 	</dict>
 	<dict>
 		<key>code</key>
-		<string>AQ</string>
-		<key>dial_code</key>
-		<string>+672</string>
-		<key>name</key>
-		<string>Antarctica</string>
-	</dict>
-	<dict>
-		<key>code</key>
 		<string>AG</string>
 		<key>dial_code</key>
 		<string>+1268</string>
@@ -97,14 +89,6 @@
 		<string>+374</string>
 		<key>name</key>
 		<string>Armenia</string>
-	</dict>
-	<dict>
-		<key>code</key>
-		<string>AW</string>
-		<key>dial_code</key>
-		<string>+297</string>
-		<key>name</key>
-		<string>Aruba</string>
 	</dict>
 	<dict>
 		<key>code</key>
@@ -424,7 +408,7 @@
 		<key>dial_code</key>
 		<string>+225</string>
 		<key>name</key>
-		<string>Cote d'Ivoire</string>
+		<string>Cote d&apos;Ivoire</string>
 	</dict>
 	<dict>
 		<key>code</key>
@@ -553,14 +537,6 @@
 		<string>+500</string>
 		<key>name</key>
 		<string>Falkland Islands (Malvinas)</string>
-	</dict>
-	<dict>
-		<key>code</key>
-		<string>FO</string>
-		<key>dial_code</key>
-		<string>+298</string>
-		<key>name</key>
-		<string>Faroe Islands</string>
 	</dict>
 	<dict>
 		<key>code</key>
@@ -904,7 +880,7 @@
 		<key>dial_code</key>
 		<string>+850</string>
 		<key>name</key>
-		<string>Korea, Democratic People's Republic of Korea</string>
+		<string>Korea, Democratic People&apos;s Republic of Korea</string>
 	</dict>
 	<dict>
 		<key>code</key>
@@ -1073,14 +1049,6 @@
 		<string>+692</string>
 		<key>name</key>
 		<string>Marshall Islands</string>
-	</dict>
-	<dict>
-		<key>code</key>
-		<string>MQ</string>
-		<key>dial_code</key>
-		<string>+596</string>
-		<key>name</key>
-		<string>Martinique</string>
 	</dict>
 	<dict>
 		<key>code</key>
@@ -1801,14 +1769,6 @@
 		<string>+1649</string>
 		<key>name</key>
 		<string>Turks and Caicos Islands</string>
-	</dict>
-	<dict>
-		<key>code</key>
-		<string>TV</string>
-		<key>dial_code</key>
-		<string>+688</string>
-		<key>name</key>
-		<string>Tuvalu</string>
 	</dict>
 	<dict>
 		<key>code</key>
